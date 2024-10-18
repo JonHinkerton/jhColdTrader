@@ -1,0 +1,19 @@
+{
+    "strings": {
+        "c55a4ec6-9b49-4bb4-a3f7-8da7006ce531": {
+            "Text": "Cold Trader"
+        },
+		"975b5c36-0bce-4ddd-b694-0de607f42f3d": {
+            "Text": "Cold Traders are the masters of illicit trade throughout the Expanse. Dealing in all manner of goods banned by the Imperium from drugs to people, but most often in exotic xenos technology. A Cold Trader's network of dangerous people and clandestine meetings requires them to be both savvy negotiators and crack shots."
+        },
+		"359ad1f1-ebe3-44a8-9ee8-613e0cd14d6a": {
+            "Text": "While the Cold Trader is fighting with weapons in both hands, the attack from the second hand (depending on which hand she attacked with first in the {g|Encyclopedia:Round}round{/g}) does not cost any additional {g|Encyclopedia:ActionPoints}AP{/g}."
+        },
+		"41151b8e-5769-4d23-9452-b881221516fc": {
+            "Text": "The Cold Trader can use either {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} or {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} for Intelligence-based {g|Encyclopedia:Skills}skills{/g}, whichever is higher. Additionally, a Cold Trader can reroll failed {g|Encyclopedia:SkillCommerce}Commerce{/g} {g|Encyclopedia:Test}tests{/g} (+1 attempt for each test)."
+        },
+		"63ad8465-a996-47dc-8629-c562330b6761": {
+            "Text": "The Rogue Trader's {g|Encyclopedia:Reputation}reputation{/g} level grants the Cold Trade additional {g|Encyclopedia:Bonus}bonuses{/g}:\n-<indent=5%><i>Drusians</i>: +<u>(reputation level)</u> to all {g|Encyclopedia:ResistanceTest}resistance tests{/g} and +<u>(2 × reputation level)</u> to {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}.</indent>\n-<indent=5%><i>Explorators</i>: +<u>(reputation level)</u>% to {g|Encyclopedia:WarhammerArmourGlossary}armour{/g} and +<u>(2 × reputation level)</u> to {g|Encyclopedia:SkillTechUse}Tech-Use{/g}.</indent>\n-<indent=5%><i>Kasballica Mission</i>: +<u>(reputation level)</u>% to {g|Encyclopedia:DodgeGlossary}dodge{/g} and {g|Encyclopedia:Parry}parry{/g} and +<u>(2 × reputation level)</u> to {g|Encyclopedia:SkillCommerce}Commerce{/g}.</indent>\n-<indent=5%><i>Fellowship of the Void</i>: +<u>(reputation level)</u>% to {g|Encyclopedia:CritChancesAndCritDamageGlossary}critical hit{/g} chance and +<u>(2 × reputation level)</u> to {g|Encyclopedia:SkillCoercion}Coercion{/g}.</indent>\n-<indent=5%><i>The Imperial Navy</i>: +<u>(reputation level)</u>% to {g|Encyclopedia:DetailsOfTheCoverGlossary}cover efficiency{/g} and +<u>(2 × reputation level)</u> to {g|Encyclopedia:SkillPersuasion}Persuasion{/g}.</indent>"
+        }
+    }
+}

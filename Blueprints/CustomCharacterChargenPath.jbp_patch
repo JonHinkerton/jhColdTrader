@@ -1,0 +1,17 @@
+{
+  "TargetGuid": "45181a40472441a8904a5282f83693f4",
+  "FieldOverrides": [],
+  "ArrayPatches": [],
+  "ComponentsPatches": [
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp\",\r\n    \"name\": \"$AddFeaturesToLevelUp$42a8c6b2-c9ac-4757-98af-aabbfcc1f7af\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Group\": \"ChargenOccupation\",\r\n    \"m_Features\": [\r\n      \"!bp_4b908491051a4f36b9703b95e048a5a3\",\r\n      \"!bp_00b183680643424abe015263aac81c5b\",\r\n      \"!bp_8fab55c9130a4ae0a745f4fa1674c5df\",\r\n      \"!bp_d840a5dc947546e0b4ac939287191fd8\",\r\n      \"!bp_962c310fd1664ae996c759e4d11a2d88\",\r\n      \"!bp_06180233245249eea90d222bb1c13f00\",\r\n      \"!bp_1518d1434ed646039215da3fdda6b096\"\r\n    ]\r\n  }\r\n}",
+      "OperationType": "RemoveElement"
+    },
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp\",\r\n    \"name\": \"$AddFeaturesToLevelUp$5711b7ff-0435-46e8-8919-1fcb53fb119b\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Group\": \"ChargenOccupation\",\r\n    \"m_Features\": [\r\n      \"!bp_4b908491051a4f36b9703b95e048a5a3\",\r\n      \"!bp_00b183680643424abe015263aac81c5b\",\r\n      \"!bp_8fab55c9130a4ae0a745f4fa1674c5df\",\r\n      \"!bp_d840a5dc947546e0b4ac939287191fd8\",\r\n      \"!bp_962c310fd1664ae996c759e4d11a2d88\",\r\n      \"!bp_06180233245249eea90d222bb1c13f00\",\r\n      \"!bp_1518d1434ed646039215da3fdda6b096\",\r\n      \"!bp_ceca047beb1c46cdbe58a5ffa7a5ffb4\"\r\n    ]\r\n  }\r\n}",
+      "OperationType": "InsertLast"
+    }
+  ]
+}
