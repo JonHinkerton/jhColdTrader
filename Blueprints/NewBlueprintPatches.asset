@@ -16,3 +16,6 @@ MonoBehaviour:
   - Guid: 45181a40472441a8904a5282f83693f4
     Filename: CustomCharacterChargenPath
     PatchType: 1
+  - Guid: e9215686ca994c3a8fd2558b9e91c649
+    Filename: NewCompanion_CustomCharacterChargenPath
+    PatchType: 1

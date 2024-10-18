@@ -14,6 +14,42 @@
         },
 		"63ad8465-a996-47dc-8629-c562330b6761": {
             "Text": "The Rogue Trader's {g|Encyclopedia:Reputation}reputation{/g} level grants the Cold Trade additional {g|Encyclopedia:Bonus}bonuses{/g}:\n-<indent=5%><i>Drusians</i>: +<u>(reputation level)</u> to all {g|Encyclopedia:ResistanceTest}resistance tests{/g} and +<u>(2 × reputation level)</u> to {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}.</indent>\n-<indent=5%><i>Explorators</i>: +<u>(reputation level)</u>% to {g|Encyclopedia:WarhammerArmourGlossary}armour{/g} and +<u>(2 × reputation level)</u> to {g|Encyclopedia:SkillTechUse}Tech-Use{/g}.</indent>\n-<indent=5%><i>Kasballica Mission</i>: +<u>(reputation level)</u>% to {g|Encyclopedia:DodgeGlossary}dodge{/g} and {g|Encyclopedia:Parry}parry{/g} and +<u>(2 × reputation level)</u> to {g|Encyclopedia:SkillCommerce}Commerce{/g}.</indent>\n-<indent=5%><i>Fellowship of the Void</i>: +<u>(reputation level)</u>% to {g|Encyclopedia:CritChancesAndCritDamageGlossary}critical hit{/g} chance and +<u>(2 × reputation level)</u> to {g|Encyclopedia:SkillCoercion}Coercion{/g}.</indent>\n-<indent=5%><i>The Imperial Navy</i>: +<u>(reputation level)</u>% to {g|Encyclopedia:DetailsOfTheCoverGlossary}cover efficiency{/g} and +<u>(2 × reputation level)</u> to {g|Encyclopedia:SkillPersuasion}Persuasion{/g}.</indent>"
+        },
+		"5bea6b9b-fdb9-4466-9bc6-9c5010f5f799": {
+            "Text": "Apex of Brilliance"
+        },
+		"4727c0f9-b575-4c6a-8652-a391c1518276": {
+            "Text": "You decoded an ancient riddle an uncovered a cache of archeotech."
+        },
+		"9361088a-865c-4e15-b874-0ca2e7bbab4d": {
+            "Text": "Illustrious Glory"
+        },
+		"55b2d3ae-d3e6-462e-93a4-f04533325535": {
+            "Text": "You impersonated an Imperial customs official and passed goods through a port for months."
+        },
+		"534bae32-41e2-4696-9b53-ead694200c50": {
+            "Text": "Feat of Greatness"
+        },
+		"e138d981-6502-4f8d-bcd4-fce8c3b3e867": {
+            "Text": "You undermined a rival's network and stole their suppliers for yourself."
+        },
+		"09aa8e2c-8707-4621-bc59-095621bcc946": {
+            "Text": "Grim Portents"
+        },
+		"84304bc5-0970-4454-b6e6-178e6ac5e63b": {
+            "Text": "You unwittingly provided arms to a buyer who tuned out to be the front for a chaos cult."
+        },
+		"56cd4a01-3f65-4037-9e91-923f5a598021": {
+            "Text": "Brand of Shame"
+        },
+		"95276fdb-2108-41fa-8ae5-4374537fc885": {
+            "Text": "You turned a business partner over to the Inquisition and they were never seen again."
+        },
+		"0c835970-ad05-4574-83e5-662d367dfa24": {
+            "Text": "Shadow of Torment"
+        },
+		"c8e1887e-951b-4c94-b9db-fff1c18a9ef1": {
+            "Text": "You were detained by an unhappy supplier and spent several weeks in miserable confinement."
         }
     }
 }

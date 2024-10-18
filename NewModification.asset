@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Manifest:
     UniqueName: ColdTraderOccupation
-    Version: 0.1.2
+    Version: 1.0
     DisplayName: Cold Trader
     Description: Play as a Cold Trader
     Author: jonhinkerton
