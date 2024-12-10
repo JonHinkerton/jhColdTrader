@@ -19,3 +19,6 @@ MonoBehaviour:
   - Guid: e9215686ca994c3a8fd2558b9e91c649
     Filename: NewCompanion_CustomCharacterChargenPath
     PatchType: 1
+  - Guid: 8689a226a7bf44f7ad3dd26b9704c1b6
+    Filename: Jae_Trader_Feature
+    PatchType: 1

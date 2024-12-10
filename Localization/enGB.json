@@ -4,7 +4,7 @@
             "Text": "Cold Trader"
         },
 		"975b5c36-0bce-4ddd-b694-0de607f42f3d": {
-            "Text": "Cold Traders are the masters of illicit trade throughout the Expanse. Dealing in all manner of goods banned by the Imperium from drugs to people, but most often in exotic xenos technology. A Cold Trader's network of dangerous people and clandestine meetings requires them to be both savvy negotiators and crack shots."
+            "Text": "Cold Traders are the masters of illicit trade throughout the Expanse. Dealing in all manner of goods banned by the Imperium from drugs to people, but most often in exotic xenos technology. A Cold Trader's world of dangerous people and clandestine meetings requires them to be both savvy negotiators and crack shots."
         },
 		"359ad1f1-ebe3-44a8-9ee8-613e0cd14d6a": {
             "Text": "While the Cold Trader is fighting with weapons in both hands, the attack from the second hand (depending on which hand she attacked with first in the {g|Encyclopedia:Round}round{/g}) does not cost any additional {g|Encyclopedia:ActionPoints}AP{/g}."
@@ -49,7 +49,25 @@
             "Text": "Shadow of Torment"
         },
 		"c8e1887e-951b-4c94-b9db-fff1c18a9ef1": {
-            "Text": "You were detained by an unhappy supplier and spent several weeks in miserable confinement."
+            "Text": "You were detained by an unhappy supplier and spent several months in miserable confinement."
+        },
+		"f02ec47a-15c1-4daa-a69c-0eca48b4a3f5": {
+            "Text": "Cold Confidence"
+        },
+		"36d25193-6267-467e-ab9a-a350489493fd": {
+            "Text": "Any time the Cold Trader would use Willpower, they may use Fellowship instead."
+        },
+		"67e4f849-c56d-44fe-9d5f-a5a01ded75a3": {
+            "Text": "Watch Your Back"
+        },
+		"380382f6-6fd4-477f-8b3b-df31cd31a717": {
+            "Text": "The Cold Trader's Dodge is based on Perception rather than Agility."
+        },
+		"b2a04b5e-ef8a-4539-9e4c-1e635f6aedcf": {
+            "Text": "Close the Deal"
+        },
+		"d699d7bc-54de-4897-99bb-255dc6a45b00": {
+            "Text": "When the Cold Trader's target is under 50% wounds, the Cold Trader gains Fellowship Value to Armor Penetration and ignores Fellowship Bonus Deflection."
         }
     }
 }

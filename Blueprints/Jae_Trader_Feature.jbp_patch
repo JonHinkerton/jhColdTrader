@@ -1,0 +1,17 @@
+{
+  "TargetGuid": "8689a226a7bf44f7ad3dd26b9704c1b6",
+  "FieldOverrides": [],
+  "ArrayPatches": [],
+  "ComponentsPatches": [
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus\",\r\n    \"name\": \"$AddContextStatBonus$7711ffc7-d8b0-46c3-8320-4f678c08f851\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Restrictions\": {\r\n      \"Property\": {\r\n        \"Operation\": \"Sum\",\r\n        \"TargetType\": \"CurrentEntity\",\r\n        \"FailSilentlyIfNoTarget\": false,\r\n        \"Getters\": []\r\n      }\r\n    },\r\n    \"Descriptor\": \"None\",\r\n    \"Stat\": \"SkillCoercion\",\r\n    \"Multiplier\": 1,\r\n    \"Value\": {\r\n      \"ValueType\": \"CasterNamedProperty\",\r\n      \"Value\": 0,\r\n      \"ValueRank\": \"Default\",\r\n      \"ValueShared\": \"Damage\",\r\n      \"Property\": \"None\",\r\n      \"m_CustomProperty\": null,\r\n      \"PropertyName\": \"Dice2\"\r\n    },\r\n    \"m_ActionsOnAdd\": {\r\n      \"Actions\": []\r\n    }\r\n  }\r\n}",
+      "OperationType": "RemoveElement"
+    },
+    {
+      "FieldName": "Components",
+      "FieldValue": "{\r\n  \"ComponentValue\": {\r\n    \"$type\": \"f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus\",\r\n    \"name\": \"$AddContextStatBonus$ec57eb50-8028-4328-8e24-27f7685e997e\",\r\n    \"m_Flags\": \"0\",\r\n    \"PrototypeLink\": {\r\n      \"guid\": \"\",\r\n      \"name\": \"\"\r\n    },\r\n    \"m_Overrides\": [],\r\n    \"Restrictions\": {\r\n      \"Property\": {\r\n        \"Operation\": \"Sum\",\r\n        \"TargetType\": \"CurrentEntity\",\r\n        \"FailSilentlyIfNoTarget\": false,\r\n        \"Getters\": []\r\n      }\r\n    },\r\n    \"Descriptor\": \"None\",\r\n    \"Stat\": \"SkillCoercion\",\r\n    \"Multiplier\": 1,\r\n    \"Value\": {\r\n      \"ValueType\": \"CasterNamedProperty\",\r\n      \"Value\": 0,\r\n      \"ValueRank\": \"Default\",\r\n      \"ValueShared\": \"Damage\",\r\n      \"Property\": \"None\",\r\n      \"m_CustomProperty\": null,\r\n      \"PropertyName\": \"Dice2\"\r\n    },\r\n    \"m_ActionsOnAdd\": {\r\n      \"Actions\": []\r\n    }\r\n  }\r\n}",
+      "OperationType": "InsertLast"
+    }
+  ]
+}

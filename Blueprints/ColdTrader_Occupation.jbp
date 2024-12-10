@@ -31,7 +31,13 @@
       "$AddKingmakerEquipmentEntity$175dd94b-416b-424d-b86f-ee27be56e492",
       "$AddFeaturesToLevelUp$e78a96c4-868b-4663-b61d-f5704c03a670",
       "$AddFeaturesToLevelUp$a852d1ec-99ae-4ddc-9764-59072e61c3c8",
-      "$AddFacts$0b257d67-3e53-4aa7-be80-7141eeffc428"
+      "$AddFacts$0b257d67-3e53-4aa7-be80-7141eeffc428",
+      "$AddFacts$7233dcb1-c6d1-4bdd-9932-df3888159b20",
+      "$AddFeaturesToLevelUp$09992e83-6b49-41c2-8fde-c578da3334c0",
+      "$AddFeaturesToLevelUp$55bbb0a3-ee3d-4395-a632-41499c81bff1",
+      "$AddFeaturesToLevelUp$b09ce7c5-ec1e-4ccb-b676-a96145794e93",
+      "$AddFeaturesToLevelUp$37552a68-a6c9-451c-af22-35b332dd25a1",
+      "$AddFeaturesToLevelUp$68bdc348-0ed2-47be-a7ec-5fe83627e93b"
     ],
     "Components": [
       {
@@ -52,7 +58,7 @@
           }
         },
         "Descriptor": "OriginAdvancement",
-        "Stat": "WarhammerBallisticSkill",
+        "Stat": "WarhammerFellowship",
         "Multiplier": 1,
         "Value": {
           "ValueType": "Simple",
@@ -177,7 +183,7 @@
         "m_Overrides": [],
         "Group": "Attribute",
         "m_Features": [
-          "!bp_2c1696055f6f4e4aa47f43eb3d7497f3"
+          "!bp_456f479710d64000b78d7852ed0a3f6f"
         ]
       },
       {
@@ -207,7 +213,7 @@
       },
       {
         "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
-        "name": "$AddFacts$0b257d67-3e53-4aa7-be80-7141eeffc428",
+        "name": "$AddFacts$7233dcb1-c6d1-4bdd-9932-df3888159b20",
         "m_Flags": 0,
         "PrototypeLink": {
           "guid": "",
@@ -215,8 +221,6 @@
         },
         "m_Overrides": [],
         "m_Facts": [
-          "!bp_752f9336807a42028c464584585a17e4",
-          "!bp_d5fbee41bb01448a97cfe9bd753c44b6",
           "!bp_8689a226a7bf44f7ad3dd26b9704c1b6"
         ],
         "Dummy": null,
@@ -224,6 +228,96 @@
         "HasDifficultyRequirements": false,
         "InvertDifficultyRequirements": false,
         "MinDifficulty": "Story"
+      },
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$09992e83-6b49-41c2-8fde-c578da3334c0",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "Talent",
+        "m_Features": [
+          "!bp_752f9336807a42028c464584585a17e4",
+          "!bp_d5fbee41bb01448a97cfe9bd753c44b6",
+          "!bp_5f090d00f333471998dce1ceefbdbfea",
+          "!bp_7e97480be576449f924c80ff98a08b21",
+          "!bp_5cf896975f39406eb47452676ddea290"
+        ]
+      },
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$55bbb0a3-ee3d-4395-a632-41499c81bff1",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "CommonTalent",
+        "m_Features": [
+          "!bp_752f9336807a42028c464584585a17e4",
+          "!bp_d5fbee41bb01448a97cfe9bd753c44b6",
+          "!bp_5f090d00f333471998dce1ceefbdbfea",
+          "!bp_7e97480be576449f924c80ff98a08b21",
+          "!bp_5cf896975f39406eb47452676ddea290"
+        ]
+      },
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$b09ce7c5-ec1e-4ccb-b676-a96145794e93",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "FirstCareerTalent",
+        "m_Features": [
+          "!bp_752f9336807a42028c464584585a17e4",
+          "!bp_d5fbee41bb01448a97cfe9bd753c44b6",
+          "!bp_5f090d00f333471998dce1ceefbdbfea",
+          "!bp_7e97480be576449f924c80ff98a08b21",
+          "!bp_5cf896975f39406eb47452676ddea290"
+        ]
+      },
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$37552a68-a6c9-451c-af22-35b332dd25a1",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "SecondCareerTalent",
+        "m_Features": [
+          "!bp_752f9336807a42028c464584585a17e4",
+          "!bp_d5fbee41bb01448a97cfe9bd753c44b6",
+          "!bp_5f090d00f333471998dce1ceefbdbfea",
+          "!bp_7e97480be576449f924c80ff98a08b21",
+          "!bp_5cf896975f39406eb47452676ddea290"
+        ]
+      },
+      {
+        "$type": "00cc9fe0a3f84bc1811764509b4282aa, AddFeaturesToLevelUp",
+        "name": "$AddFeaturesToLevelUp$68bdc348-0ed2-47be-a7ec-5fe83627e93b",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Group": "FirstOrSecondCareerTalent",
+        "m_Features": [
+          "!bp_752f9336807a42028c464584585a17e4",
+          "!bp_d5fbee41bb01448a97cfe9bd753c44b6",
+          "!bp_5f090d00f333471998dce1ceefbdbfea",
+          "!bp_7e97480be576449f924c80ff98a08b21",
+          "!bp_5cf896975f39406eb47452676ddea290"
+        ]
       }
     ],
     "Author": "Unknown",
