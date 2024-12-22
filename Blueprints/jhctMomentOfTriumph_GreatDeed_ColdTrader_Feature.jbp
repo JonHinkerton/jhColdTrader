@@ -25,7 +25,7 @@
           }
         },
         "Descriptor": "None",
-        "Stat": "SkillCommerce",
+        "Stat": "SkillLogic",
         "Multiplier": 1,
         "Value": {
           "ValueType": "Simple",

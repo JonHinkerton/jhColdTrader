@@ -28,10 +28,10 @@
           "name": ""
         },
         "m_Overrides": [],
-        "m_OriginalStat": "WarhammerFellowship",
+        "m_OriginalStat": "WarhammerWillpower",
         "m_NewAttribute": "WarhammerFellowship",
         "m_OnlyIfHigher": true,
-        "m_PreviousAttributeToCompare": "WarhammerIntelligence"
+        "m_PreviousAttributeToCompare": "WarhammerWillpower"
       },
       {
         "$type": "018ffdf3c815bfa4189c0fc4cf1c9b19, RecalculateOnStatChange",
@@ -42,7 +42,7 @@
           "name": ""
         },
         "m_Overrides": [],
-        "Stat": "WarhammerIntelligence",
+        "Stat": "WarhammerWillpower",
         "CheckCaster": false
       },
       {

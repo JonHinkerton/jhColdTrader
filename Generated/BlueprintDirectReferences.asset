@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: -1202703938, guid: faf1e6e97fbc1d343ace363ace29f244, type: 3}
   m_Name: BlueprintDirectReferences
   m_EditorClassIdentifier: 
-  m_Entries: []
+  m_Entries:
+  - AssetId: f0a974d363ccf6b4a88ca154b0de646a
+    FileId: 11400000
+    Asset: {fileID: 11400000, guid: f0a974d363ccf6b4a88ca154b0de646a, type: 2}
+  - AssetId: c2c26919abf057344af615b2e054846d
+    FileId: 11400000
+    Asset: {fileID: 11400000, guid: c2c26919abf057344af615b2e054846d, type: 2}

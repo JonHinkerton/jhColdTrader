@@ -44,18 +44,24 @@
     "Author": "Unknown",
     "Comment": "",
     "m_DisplayName": {
-      "m_Key": "09aa8e2c-8707-4621-bc59-095621bcc946",
+      "m_Key": "",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
-      "Shared": null
+      "Shared": {
+        "assetguid": "f0a974d363ccf6b4a88ca154b0de646a",
+        "stringkey": "2ae6768f-92c4-4175-af64-a78f1af5dafd"
+      }
     },
     "m_Description": {
-      "m_Key": "84304bc5-0970-4454-b6e6-178e6ac5e63b",
+      "m_Key": "",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
-      "Shared": null
+      "Shared": {
+        "assetguid": "c2c26919abf057344af615b2e054846d",
+        "stringkey": "a3d6bb4b-e5f2-446f-8915-690f203dd911"
+      }
     },
     "m_Icon": null,
     "m_AllowNonContextActions": false,

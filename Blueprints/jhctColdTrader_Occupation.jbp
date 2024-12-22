@@ -37,7 +37,9 @@
       "$AddFeaturesToLevelUp$55bbb0a3-ee3d-4395-a632-41499c81bff1",
       "$AddFeaturesToLevelUp$b09ce7c5-ec1e-4ccb-b676-a96145794e93",
       "$AddFeaturesToLevelUp$37552a68-a6c9-451c-af22-35b332dd25a1",
-      "$AddFeaturesToLevelUp$68bdc348-0ed2-47be-a7ec-5fe83627e93b"
+      "$AddFeaturesToLevelUp$68bdc348-0ed2-47be-a7ec-5fe83627e93b",
+      "m_DisplayName",
+      "m_Description"
     ],
     "Components": [
       {
