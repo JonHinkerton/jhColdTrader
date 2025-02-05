@@ -4,70 +4,48 @@
             "Text": "Comerciante Frío"
         },
         "975b5c36-0bce-4ddd-b694-0de607f42f3d": {
-            "Text": "Los Comerciantes Fríos son los maestros del comercio ilícito a través del Expanse. Negocian todo tipo de bienes prohibidos por el Imperio, desde drogas hasta personas, pero más a menudo tecnología xenos exótica. El mundo de un Comerciante Frío, lleno de personas peligrosas y reuniones clandestinas, les exige ser tanto negociadores astutos como tiradores excelentes."
+            "Text": "Los Comerciantes Fríos son los maestros del comercio ilícito en toda la Expansión. Negocian con todo tipo de bienes prohibidos por el Imperio, desde drogas hasta personas, pero más comúnmente con tecnología exótica xenos. El mundo de los Comerciantes Fríos, lleno de personas peligrosas y reuniones clandestinas, requiere que sean tanto negociadores astutos como tiradores expertos."
         },
         "359ad1f1-ebe3-44a8-9ee8-613e0cd14d6a": {
-            "Text": "Mientras el Comerciante Frío está luchando con armas en ambas manos, el ataque de la segunda mano (dependiendo de con qué mano atacó primero en la {g|Encyclopedia:Round}ronda{/g}) no cuesta puntos de acción {g|Encyclopedia:ActionPoints}AP{/g} adicionales."
+            "Text": "Mientras el Comerciante Frío luche con armas en ambas manos, el ataque de la segunda mano (dependiendo de con cuál atacó primero en la {g|Encyclopedia:Round}ronda{/g}) no cuesta {g|Encyclopedia:ActionPoints}PA{/g} adicionales."
         },
         "41151b8e-5769-4d23-9452-b881221516fc": {
-            "Text": "El Comerciante Frío puede usar {g|Encyclopedia:WarhammerFellowship}Compañerismo{/g} o {g|Encyclopedia:WarhammerIntelligence}Inteligencia{/g} para habilidades {g|Encyclopedia:Skills}basadas en Inteligencia{/g}, eligiendo la que sea más alta. Además, un Comerciante Frío puede volver a tirar pruebas {g|Encyclopedia:SkillCommerce}Comerciales{/g} fallidas {g|Encyclopedia:Test}(+1 intento por cada prueba)."
+            "Text": "El Comerciante Frío puede usar {g|Encyclopedia:WarhammerFellowship}Carisma{/g} o {g|Encyclopedia:WarhammerIntelligence}Inteligencia{/g} para habilidades basadas en Inteligencia, lo que sea más alto. Además, un Comerciante Frío puede repetir pruebas fallidas de {g|Encyclopedia:SkillCommerce}Comercio{/g} (+1 intento por cada prueba)."
         },
         "63ad8465-a996-47dc-8629-c562330b6761": {
-            "Text": "El nivel de {g|Encyclopedia:Reputation}reputación{/g} del Comerciante Renegado otorga bonificaciones adicionales al Comercio Frío:\n-<indent=5%><i>Drusianos</i>: +<u>(nivel de reputación)</u> a todas las pruebas de {g|Encyclopedia:ResistanceTest}resistencia{/g} y +<u>(2 × nivel de reputación)</u> en {g|Encyclopedia:SkillLoreImperium}Conocimiento (Imperio){/g}.</indent>\n-<indent=5%><i>Exploradores</i>: +<u>(nivel de reputación)</u>% en {g|Encyclopedia:WarhammerArmourGlossary}armadura{/g} y +<u>(2 × nivel de reputación)</u> en {g|Encyclopedia:SkillTechUse}Uso Técnico{/g}.</indent>\n-<indent=5%><i>Misión Kasbálica</i>: +<u>(nivel de reputación)</u>% en {g|Encyclopedia:DodgeGlossary}esquiva{/g} y {g|Encyclopedia:Parry}parada{/g} y +<u>(2 × nivel de reputación)</u> en {g|Encyclopedia:SkillCommerce}Comercio{/g}.</indent>\n-<indent=5%><i>Hermandad del Vacío</i>: +<u>(nivel de reputación)</u>% en {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilidad de golpe crítico{/g} y +<u>(2 × nivel de reputación)</u> en {g|Encyclopedia:SkillCoercion}Coerción{/g}.</indent>\n-<indent=5%><i>La Armada Imperial</i>: +<u>(nivel de reputación)</u>% en {g|Encyclopedia:DetailsOfTheCoverGlossary}eficiencia de cobertura{/g} y +<u>(2 × nivel de reputación)</u> en {g|Encyclopedia:SkillPersuasion}Persuasión{/g}.</indent>"
+            "Text": "El nivel de {g|Encyclopedia:Reputation}reputación{/g} del Comerciante Pícaro otorga al Comerciante Frío {g|Encyclopedia:Bonus}bonificaciones{/g} adicionales:\n-<indent=5%><i>Drusianos</i>: +<u>(nivel de reputación)</u> a todas las {g|Encyclopedia:ResistanceTest}pruebas de resistencia{/g} y +<u>(2 × nivel de reputación)</u> a {g|Encyclopedia:SkillLoreImperium}Conocimiento (Imperio){/g}.</indent>\n-<indent=5%><i>Exploradores</i>: +<u>(nivel de reputación)</u>% a la {g|Encyclopedia:WarhammerArmourGlossary}armadura{/g} y +<u>(2 × nivel de reputación)</u> a {g|Encyclopedia:SkillTechUse}Uso de Tecnología{/g}.</indent>\n-<indent=5%><i>Misión Kasballica</i>: +<u>(nivel de reputación)</u>% a {g|Encyclopedia:DodgeGlossary}esquiva{/g} y {g|Encyclopedia:Parry}parada{/g} y +<u>(2 × nivel de reputación)</u> a {g|Encyclopedia:SkillCommerce}Comercio{/g}.</indent>\n-<indent=5%><i>Hermandad del Vacío</i>: +<u>(nivel de reputación)</u>% a la probabilidad de {g|Encyclopedia:CritChancesAndCritDamageGlossary}golpe crítico{/g} y +<u>(2 × nivel de reputación)</u> a {g|Encyclopedia:SkillCoercion}Coerción{/g}.</indent>\n-<indent=5%><i>La Armada Imperial</i>: +<u>(nivel de reputación)</u>% a la {g|Encyclopedia:DetailsOfTheCoverGlossary}eficiencia de cobertura{/g} y +<u>(2 × nivel de reputación)</u> a {g|Encyclopedia:SkillPersuasion}Persuasión{/g}.</indent>"
         },
         "5bea6b9b-fdb9-4466-9bc6-9c5010f5f799": {
-            "Text": "Cumbre de la Brillantez"
+            "Text": "Cima del Brillo"
         },
         "4727c0f9-b575-4c6a-8652-a391c1518276": {
-            "Text": "Descifraste un antiguo enigma y descubriste un alijo de arqueotecnología."
+            "Text": "Descifraste un antiguo acertijo y descubriste un alijo de arquetecnología."
         },
         "9361088a-865c-4e15-b874-0ca2e7bbab4d": {
             "Text": "Gloria Ilustre"
         },
         "55b2d3ae-d3e6-462e-93a4-f04533325535": {
-            "Text": "Suplantaste a un oficial de aduanas imperial y pasaste mercancías por un puerto durante meses."
+            "Text": "Te hiciste pasar por un funcionario de aduanas imperial y pasaste mercancías a través de un puerto durante meses."
         },
-        "534bae32-41e2-4696-9b53-ead694200c50": {
-            "Text": "Hazaña de Grandeza"
+        "44911717-386a-4fff-adf5-3c68827c6cfe": {
+            "Offset": 0,
+            "Text": "{name} Priewzitoli, reputado comerciante de antigüedades, piensa en mí la próxima vez que busques algo especial."
         },
-        "e138d981-6502-4f8d-bcd4-fce8c3b3e867": {
-            "Text": "Saboteaste la red de un rival y te apropiaste de sus proveedores."
+        "30b88602-9c38-4fbb-9da4-5198e18ff517": {
+            "Offset": 0,
+            "Text": "\"De hecho, {name}. Ciertamente permanecerás en mis pensamientos.\" {n}Voigtvir sonríe levemente, pero no estás seguro de que sea dirigido a ti.{/n}"
         },
-        "09aa8e2c-8707-4621-bc59-095621bcc946": {
-            "Text": "Presagios Sombríos"
+        "edd0424b-ebfc-49ac-92d6-c91b7a593cbd": {
+            "Offset": 0,
+            "Text": "¿Sabes lo que oigo? Oigo el sonido de nuevas oportunidades en ciertos mercados de exportación de lujo. Adquiriría los artefactos que pudiera de los nativos... y supongo que extraería algunas aburridas rocas, ya que eres dueño del planeta."
         },
-        "84304bc5-0970-4454-b6e6-178e6ac5e63b": {
-            "Text": "Sin saberlo, proporcionaste armas a un comprador que resultó ser la fachada de un culto del caos."
+        "2bc53a11-370e-42bd-88ae-9095b29ada71": {
+            "Offset": 0,
+            "Text": "\"Y, sin embargo, una fracción de esas 'aburridas rocas' que estás listo para descartar vale más que todos los baratijas nativas de la Expansión. Debes aprender a hacer negocios a una escala mucho mayor si quieres ganarte tu lugar aquí.\""
         },
-        "56cd4a01-3f65-4037-9e91-923f5a598021": {
-            "Text": "Marca de la Vergüenza"
-        },
-        "95276fdb-2108-41fa-8ae5-4374537fc885": {
-            "Text": "Entregaste a un socio comercial a la Inquisición y nunca más se le volvió a ver."
-        },
-        "0c835970-ad05-4574-83e5-662d367dfa24": {
-            "Text": "Sombra del Tormento"
-        },
-        "c8e1887e-951b-4c94-b9db-fff1c18a9ef1": {
-            "Text": "Fuiste detenido por un proveedor descontento y pasaste varios meses en un confinamiento miserable."
-        },
-        "f02ec47a-15c1-4daa-a69c-0eca48b4a3f5": {
-            "Text": "Confianza Fría"
-        },
-        "36d25193-6267-467e-ab9a-a350489493fd": {
-            "Text": "Cualquier vez que el Comerciante Frío necesite usar Voluntad, puede usar Compañerismo en su lugar."
-        },
-        "67e4f849-c56d-44fe-9d5f-a5a01ded75a3": {
-            "Text": "Vigila tu Espalda"
-        },
-        "380382f6-6fd4-477f-8b3b-df31cd31a717": {
-            "Text": "La esquiva del Comerciante Frío se basa en Percepción en lugar de Agilidad."
-        },
-        "b2a04b5e-ef8a-4539-9e4c-1e635f6aedcf": {
-            "Text": "Cerrar el Trato"
-        },
-        "d699d7bc-54de-4897-99bb-255dc6a45b00": {
-            "Text": "Cuando el objetivo del Comerciante Frío está por debajo del 50% de heridas, el Comerciante Frío gana Valor de Compañerismo en Penetración de Armadura e ignora el Bonificador de Compañerismo en Deflexión."
+        "a6ccd91c-392b-41a6-b72e-9ee273541676": {
+            "Offset": 0,
+            "Text": "\"Entiendo que tus negocios clandestinos no pasaron desapercibidos en el sector Calixis. Tu éxito desmedido ha atraído mucha atención. De hecho, mi Maestro de los Susurros me dice que logró extraerte por poco de un encuentro con el Adeptus Arbites, del cual sigues completamente inconsciente...\" {n}Theodora levanta una ceja mientras procesas su revelación.{/n} \"Pero, no se puede negar que tienes un talento natural para un cierto tipo de comercio, del cual espero verte beneficiando a la dinastía.\""
         }
     }
 }

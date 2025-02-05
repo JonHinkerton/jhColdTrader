@@ -68,6 +68,27 @@
         },
 		"d699d7bc-54de-4897-99bb-255dc6a45b00": {
             "Text": "When the Cold Trader's target is under 50% wounds, the Cold Trader gains Fellowship Value to Armor Penetration and ignores Fellowship Bonus Deflection."
-        }
+        },
+		"44911717-386a-4fff-adf5-3c68827c6cfe": {
+		  "Offset": 0,
+		  "Text": "{name} Priewzitoli, reputable antiquies dealer, think of me next time you're looking for a little something special."
+		},
+		"30b88602-9c38-4fbb-9da4-5198e18ff517": {
+		  "Offset": 0,
+		  "Text": "\"Indeed, {name}. You will certainly remain in my thoughts.\" {n}Voigtvir smiles faintly, but you are not sure it is directed at you.{/n}"
+		},
+		"edd0424b-ebfc-49ac-92d6-c91b7a593cbd": {
+		  "Offset": 0,
+		  "Text": "You know what I hear? I hear the sound of new opportunities in certain luxury export markets. I would aquire what artifacts I could from the natives - and I guess mine the planet for some boring rocks since you own it?"
+		},
+		"2bc53a11-370e-42bd-88ae-9095b29ada71": {
+		  "Offset": 0,
+		  "Text": "\"And yet a fraction of those 'boring rocks' you are ready to cast aside are worth more than every native trinket in the Expanse! You must learn to do business on a vastly greater scale if you are to earn your place here.\""
+		},
+		"a6ccd91c-392b-41a6-b72e-9ee273541676": {
+		  "Offset": 0,
+		  "Text": "\"I understand that your clandestine business dealings did not go unnoticed in the Calixis sector. Your runaway success has drawn much attention. Indeed my Master of Whispers tells me he narrowly extracted you from an encounter with the Adeptus Arbites which you remain entirely unaware of...\" {n}Theodora raises an eyebrow as you process her revelation.{/n} \"But, it cannot be denied that you show a natural talent for a certain brand of commerce which I look forward to seeing you undertake for the benefit of the dynasty.\""
+		}
+		
     }
 }

@@ -1,0 +1,62 @@
+{
+  "Components": [
+    {
+      "PatchType": "Relocate",
+      "Target": "$PropertyCalculatorComponent$3abeca9a-6a28-4228-8122-b759d11670d1",
+      "InsertAfterTarget": "$WarhammerHitChanceModifierInitiator$f3e79458-d08f-4d51-a4de-6e34bcef3b3e"
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": "$WarhammerHitChanceModifierTarget$b9009184-fafe-4957-9def-db07dd487642",
+      "InsertAfterTarget": "$PropertyCalculatorComponent$3abeca9a-6a28-4228-8122-b759d11670d1"
+    },
+    {
+      "PatchType": "Relocate",
+      "Target": "$AddContextStatBonus$a311f1a0-3cfa-4d85-9268-234466e8f8cc",
+      "InsertAfterTarget": "$WarhammerHitChanceModifierTarget$b9009184-fafe-4957-9def-db07dd487642"
+    },
+    {
+      "PatchType": "Insert",
+      "NewElement": {
+        "$type": "f08844ce14d498a45a9fc64582489a2a, AddContextStatBonus",
+        "name": "$AddContextStatBonus$ec57eb50-8028-4328-8e24-27f7685e997e",
+        "m_Flags": 0,
+        "PrototypeLink": {
+          "guid": "",
+          "name": ""
+        },
+        "m_Overrides": [],
+        "Restrictions": {
+          "Property": {
+            "Operation": "Sum",
+            "TargetType": "CurrentEntity",
+            "FailSilentlyIfNoTarget": false,
+            "Getters": []
+          }
+        },
+        "Descriptor": "None",
+        "Stat": "SkillCoercion",
+        "Multiplier": 1,
+        "Value": {
+          "ValueType": "CasterNamedProperty",
+          "Value": 0,
+          "ValueRank": "Default",
+          "ValueShared": "Damage",
+          "Property": "None",
+          "m_CustomProperty": null,
+          "PropertyName": "Dice2"
+        },
+        "m_ActionsOnAdd": {
+          "Actions": []
+        }
+      },
+      "InsertAfterTarget": "$AddContextStatBonus$a311f1a0-3cfa-4d85-9268-234466e8f8cc"
+    }
+  ],
+  "m_DisplayName": {
+    "m_OwnerString": "29197359cefd4b29a82d38fc62b87dec"
+  },
+  "m_Description": {
+    "m_OwnerString": "29197359cefd4b29a82d38fc62b87dec"
+  }
+}

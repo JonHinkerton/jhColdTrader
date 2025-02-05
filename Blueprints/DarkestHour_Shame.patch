@@ -1,0 +1,20 @@
+{
+  "ActivationCondition": {
+    "Conditions": [
+      {
+        "PatchType": "Insert",
+        "NewElement": {
+          "$type": "f310985bf2724df4a97b165f74b806e8, HasFact",
+          "name": "$HasFact$38dc44c0e9c64af183578ac405ad97b6",
+          "Not": false,
+          "Unit": {
+            "$type": "25c132cb07bfaef4683b062a74f6e012, PlayerCharacter",
+            "name": "$PlayerCharacter$a772762f9e4b48228dcd4e114ba0cbec"
+          },
+          "m_Fact": "!bp_b02faff3bf404965bc8a1fe6b8f2cdd5"
+        },
+        "InsertAfterTarget": "$HasFact$ac5e8db6-5e90-4254-955a-8cc6e0b5b762"
+      }
+    ]
+  }
+}
