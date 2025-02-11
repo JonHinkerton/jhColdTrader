@@ -293,7 +293,7 @@
         },
         "Descriptor": "None",
         "Stat": "SkillTechUse",
-        "Multiplier": 1,
+        "Multiplier": 2,
         "Value": {
           "ValueType": "CasterNamedProperty",
           "Value": 0,
@@ -455,7 +455,7 @@
         },
         "Descriptor": "None",
         "Stat": "SkillCommerce",
-        "Multiplier": 1,
+        "Multiplier": 2,
         "Value": {
           "ValueType": "CasterNamedProperty",
           "Value": 0,
@@ -703,7 +703,7 @@
         },
         "Descriptor": "None",
         "Stat": "SkillCoercion",
-        "Multiplier": 1,
+        "Multiplier": 2,
         "Value": {
           "ValueType": "CasterNamedProperty",
           "Value": 0,

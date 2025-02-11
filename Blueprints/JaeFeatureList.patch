@@ -1,0 +1,58 @@
+{
+  "Components": [
+    {
+      "PatchType": "PatchElement",
+      "Target": "$ApplyCareerPath$4676d20a-cc60-4ce3-b12a-d63803108649",
+      "ElementPatch": {
+        "Selections": [
+          {
+            "PatchType": "PatchElement",
+            "Target": "ChargenOccupation",
+            "ElementPatch": {
+              "m_Items": [
+                {
+                  "PatchType": "Prepend",
+                  "NewElement": "!bp_ceca047beb1c46cdbe58a5ffa7a5ffb4"
+                },
+                {
+                  "PatchType": "RemoveFromEnd",
+                  "Target": "!bp_aa932c209cdd43c9bb749d5380fc126e"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "PatchType": "PatchElement",
+      "Target": "$ApplyCareerPath$1be3bf2a-bcdb-4a1f-90c5-3380a8220b6f",
+      "ElementPatch": {
+        "Selections": [
+          {
+            "PatchType": "PatchElement",
+            "Target": "CommonTalent",
+            "ElementPatch": {
+              "m_Items": [
+                {
+                  "PatchType": "Insert",
+                  "NewElement": "!bp_752f9336807a42028c464584585a17e4",
+                  "InsertAfterTarget": "!bp_21b1141350de40b4bbd60a99d9a5c69a"
+                },
+                {
+                  "PatchType": "Insert",
+                  "NewElement": "!bp_d5fbee41bb01448a97cfe9bd753c44b6",
+                  "InsertAfterTarget": "!bp_752f9336807a42028c464584585a17e4"
+                },
+                {
+                  "PatchType": "RemoveFromEnd",
+                  "Target": "!bp_4a37832fc82c4d1a999cb370252537da"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

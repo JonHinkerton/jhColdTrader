@@ -49,3 +49,6 @@ MonoBehaviour:
   - Guid: 43fbc71c50084afcafa433b290dccccd
     Filename: DarkestHour_Tortures.patch
     PatchType: 2
+  - Guid: 7dc77077e75b41f0aa8489b2186f98aa
+    Filename: JaeFeatureList.patch
+    PatchType: 2
